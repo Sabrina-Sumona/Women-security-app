@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Women Security App</string>
+    <string name="button_text1">Add contacts</string>
+    <string name="button_text2">Add your no.</string>
+    <string name="button_text3">View added contacts</string>
+    <string name="button_text4">Instructions</string>
+    <string name="button_text5">Name</string>
+    <string name="button_text6">Number</string>
+    <string name="button_text7">Save</string>
+    <string name="button_text8">Back</string>
+
+
+</resources>
